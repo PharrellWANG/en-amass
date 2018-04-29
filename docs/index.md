@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to English Amassing
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
