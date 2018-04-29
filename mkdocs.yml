@@ -35,14 +35,6 @@ markdown_extensions:
   - toc:
       permalink: true
 
-pages:
-   - Home: index.md
-   - 2018:
-     - April:
-       - April 29, 2018: 2018/04/29.md
-       - April 30, 2018: 2018/04/30.md
-
-
 markdown_extensions:
   - admonition
   - codehilite
@@ -66,3 +58,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+pages:
+   - Home: index.md
+   - 2018:
+     - April: 2018/04.md
