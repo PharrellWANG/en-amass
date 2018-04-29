@@ -2,63 +2,33 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to English Amassing\n\u00b6\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\u00b6\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\u00b6\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Welcome to English Amassing\n\u00b6\n\n\nThis is the place where I take notes about English learning.",
             "title": "Home"
         },
         {
             "location": "/#welcome-to-english-amassing",
-            "text": "For full documentation visit  mkdocs.org .",
+            "text": "This is the place where I take notes about English learning.",
             "title": "Welcome to English Amassing"
         },
         {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/2018/04/",
+            "text": "April 29, 2018\n\u00b6\n\n\nTED Talk\n\u00b6\n\n\nOnline Video: \nStuart Russell: 3 Principals for creating safer AI\n\n\nApril 30, 2018\n\u00b6",
+            "title": "April"
         },
         {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
-        },
-        {
-            "location": "/2018/04/29/",
-            "text": "Chapter1\n\u00b6\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\u00b6\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\u00b6\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "location": "/2018/04/#april-29-2018",
+            "text": "",
             "title": "April 29, 2018"
         },
         {
-            "location": "/2018/04/29/#chapter1",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Chapter1"
+            "location": "/2018/04/#ted-talk",
+            "text": "Online Video:  Stuart Russell: 3 Principals for creating safer AI",
+            "title": "TED Talk"
         },
         {
-            "location": "/2018/04/29/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/2018/04/29/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
-        },
-        {
-            "location": "/2018/04/30/",
-            "text": "Chapter1\n\u00b6\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\u00b6\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\u00b6\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "location": "/2018/04/#april-30-2018",
+            "text": "",
             "title": "April 30, 2018"
-        },
-        {
-            "location": "/2018/04/30/#chapter1",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Chapter1"
-        },
-        {
-            "location": "/2018/04/30/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/2018/04/30/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
         }
     ]
 }
