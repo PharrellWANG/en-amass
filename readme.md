@@ -7,5 +7,5 @@
 # Deploy
 
 ``
-mkdocs build && git add . && git commit -m 'udpates' && git push && git checkout gh-pages && cp -r site/* ./ && git add . && git commit -m 'site updated' && git push && git checkout master
+mkdocs build && git add . && git commit -m 'udpates' && git push && git checkout gh-pages && cp -r site/* ./ && git add . && git commit -m 'site updated' && git push origin gh-pages && git checkout master
 ``
