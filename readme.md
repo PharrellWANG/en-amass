@@ -2,7 +2,8 @@
 
 ``. ./run.sh`` to run site for english amassing.
 
-``cd mkdocs-material && mkdocs serve`` to run the example docs site. You may refer to example docs site to learn more about how to write this doc.
+Click [here](https://github.com/PharrellWANG/mkdocs-material) and run the example docs site for info 
+about how to write docs and use extension.
 
 # Deploy
 
