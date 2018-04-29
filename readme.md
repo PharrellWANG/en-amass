@@ -7,5 +7,5 @@
 # Deploy
 
 ``
-mkdocs build && touch site/.nojekyll && git commit -m \"Deploy docs to gh-pages\" && git subtree push --prefix site origin gh-pages
+mkdocs build && git add . && git commit -m 'udpates' && git push && git checkout gh-pages && cp -r site/* ./ && git add . && git commit -m 'site updated' && git push && git checkout master
 ``
