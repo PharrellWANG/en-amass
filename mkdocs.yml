@@ -1,0 +1,68 @@
+dev_addr: 127.0.0.1:8123
+
+# Project information
+site_name: 'English Amassing'
+site_description: 'My notes for learning English'
+site_author: 'Pharrell Z. X. WANG'
+#site_url: 'https://squidfunk.github.io/mkdocs-material/'
+
+# Repository
+#repo_name: 'squidfunk/mkdocs-material'
+#repo_url: 'https://github.com/squidfunk/mkdocs-material'
+
+# Copyright
+copyright: 'Copyright &copy; 2018 Pharrell Z. X. WANG'
+
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  palette:
+    primary: 'green'
+    accent: 'pink'
+#  logo:
+#    icon: 'book'
+  language: 'en'
+  direction: 'ltr'
+  search:
+    language: 'en'
+  feature:
+    tabs: true
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
+pages:
+   - Home: index.md
+   - 2018:
+     - April:
+       - April 29, 2018: 2018/04/29.md
+       - April 30, 2018: 2018/04/30.md
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
