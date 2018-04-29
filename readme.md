@@ -5,9 +5,11 @@ Please setup virtualenv if you don't have one.
 virtualenv venv -p `which python3` && pip install -r requirements.txt
 ``
 
-``. ./run.sh`` to run site for english amassing.
+``. ./run.sh`` from project root to run site for english amassing.
 
-Click [here](https://github.com/PharrellWANG/mkdocs-material) and run the example docs site for info 
+``. ./mkdocs-material-run.sh`` from ~ for example project on mbp.
+
+Click [here](https://github.com/PharrellWANG/mkdocs-material) and run the example docs site for info
 about how to write docs and use extension.
 
 # Deploy
