@@ -1,5 +1,10 @@
 # Development
 
+Please setup virtualenv if you don't have one. 
+``
+virtualenv venv -p `which python3` && pip install -r requirements.txt
+``
+
 ``. ./run.sh`` to run site for english amassing.
 
 Click [here](https://github.com/PharrellWANG/mkdocs-material) and run the example docs site for info 
