@@ -25,8 +25,8 @@ theme:
   direction: 'ltr'
   search:
     language: 'en'
-  feature:
-    tabs: true
+#  feature:
+#    tabs: true
 
 markdown_extensions:
   - admonition
