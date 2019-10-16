@@ -1,12 +1,21 @@
-click==6.7
-Jinja2==2.10
-livereload==2.5.1
-Markdown==2.6.11
-MarkupSafe==1.0
-mkdocs==0.17.3
-mkdocs-material==2.7.3
-Pygments==2.2.0
-pymdown-extensions==4.10
-PyYAML==3.12
-six==1.11.0
-tornado==4.5.3
+Package              Version
+-------------------- -------
+click                6.7    
+htmlmin              0.1.12 
+Jinja2               2.10   
+jsmin                2.2.2  
+livereload           2.5.1  
+Markdown             3.1.1  
+MarkupSafe           1.0    
+mkdocs               1.0.4  
+mkdocs-material      4.4.3  
+mkdocs-minify-plugin 0.2.1  
+pep562               1.0    
+pip                  19.3   
+Pygments             2.2.0  
+pymdown-extensions   6.1    
+PyYAML               3.12   
+setuptools           41.4.0 
+six                  1.11.0 
+tornado              6.0.3  
+wheel                0.33.6 
