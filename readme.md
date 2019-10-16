@@ -15,5 +15,5 @@ about how to write docs and use extension.
 # Deploy
 
 ``
-mkdocs build && git add . && git commit -m 'udpates' && git push && git checkout gh-pages && cp -r site/* ./ && git add . && git commit -m 'site updated' && git push && git checkout master
+mkdocs build && git add . && git commit -m 'udpates' && git push && mkdir /tmp/en-amass && cp -r site/* /tmp/en-amass/ && git checkout gh-pages && cp -r /tmp/en-amass/* ./ && git add . && git commit -m 'site updated' && git push && git checkout master && rm -rf /tmp/en-amass
 ``
